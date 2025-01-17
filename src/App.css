@@ -1,12 +1,9 @@
-.App {
-  text-align: center;
-}
+
 
 .black-bg{
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
   background-color: black;
   width: 100%;
   height: 50px;
@@ -14,4 +11,14 @@
   font-weight: 800;
   font-size: 40px;
 
+}
+.list{
+  padding-left: 20px;
+  border-bottom: 1px solid grey;
+}
+.modal{
+  background-color: #eee;
+  margin-top: 20px;
+  padding: 20px;
+  
 }
