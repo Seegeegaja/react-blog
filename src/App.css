@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.black-bg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  width: 100%;
+  height: 50px;
+  color: white;
+  font-weight: 800;
+  font-size: 40px;
+
+}
